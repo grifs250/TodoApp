@@ -16,20 +16,13 @@ This Todo App is a simple web-based application that allows users to manage thei
 - **JavaScript**: For the functionality of the todo app, including adding, deleting, and marking tasks as completed.
 - **Local Storage**: For saving and retrieving the list of tasks so they persist across sessions.
 
-## How to Use
-
-1. Clone or download the repository.
-2. Open the `index.html` file in your browser.
-3. Start adding your tasks using the input field.
-4. Mark tasks as completed by clicking the checkbox.
-5. Remove tasks by clicking the delete button.
-
 ## Screenshots
 
 ![Screenshot of the Todo App](./screenshots/todo-app.png)
 
----
 
-### Short Description for GitHub Repository
+## Acknowledgment
+
+Thanks to the YouTube programming community, **Coding2Go**, and **ChatGPT** for their guidance and resources that helped in the development of this Todo App.
 
 
